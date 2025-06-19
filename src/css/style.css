@@ -1,0 +1,15 @@
+body {
+  padding: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.container > a {
+  text-decoration: none;
+  font-size: 18px;
+}
